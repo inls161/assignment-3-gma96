@@ -13,7 +13,7 @@ Here is a quote. It's a movie quote that has nothing to do with the contents
 of this write-up, but it's here because the assignment requires quotes.
 
 "Happiness can be found even in the darkest of times, when one only remembers to turn on the light." -Dumbledore, 
-Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Prisoner of Azkaban.
 
 Now here is some text formatting. There can be **bold text**, or there
 can be *italics text*. All of these are for emphasis.
